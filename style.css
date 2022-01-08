@@ -1,7 +1,12 @@
 
+.banner{
+    align-items: center;
+}
+
 
 section{
     display: flex;
+    position: relative;
 }
 
 
