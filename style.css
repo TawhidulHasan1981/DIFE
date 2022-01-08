@@ -3,9 +3,12 @@ section{
     display: flex;
 }
 
-.main{
+.flexible-container{
 
+        display: flex;
+        margin-bottom: 150px;
 
 }
+
 
 
