@@ -44,3 +44,9 @@ h2{
     background-color: darkmagenta;
     color: white;
 }
+
+.item{
+
+    font-size: 20px;
+    border: yellow;
+}
