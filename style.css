@@ -32,6 +32,7 @@ section{
 
 .riham1 img{
     width: 100%;
+    padding-left: 10px;
 
 }
 
@@ -49,4 +50,6 @@ h2{
 
     font-size: 20px;
     background-color: yellow;
+    font-weight: bold;
+    text-align: justify;
 }
