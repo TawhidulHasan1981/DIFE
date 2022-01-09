@@ -21,3 +21,7 @@ p{
 font-size: 20px;
 
 }
+
+section{
+    display: flex;
+}
