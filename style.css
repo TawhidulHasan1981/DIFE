@@ -63,6 +63,9 @@ h2{
     
     color: black;
     padding-right: 70%;
+    text-align: center;
+    border:20px;
+    
     
     
     
@@ -93,7 +96,8 @@ h2{
         text-align: center;
 }
 
-section{
+.container{
 
-    align-items: center;
+    display: flex;
+    padding-right: 5%;
 }
