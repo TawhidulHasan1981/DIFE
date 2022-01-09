@@ -1,6 +1,7 @@
 body{
 
     font-family: 'Noto Sans Bengali', sans-serif;
+    
 }
 
 h1{
@@ -27,10 +28,10 @@ section{
 }
 
 .riham1 img{
-    width: 50%;
+    width: 100%;
 
 }
 
 .riham{
-    width: 50%;
+    width: 100%;
 }
