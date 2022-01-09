@@ -1,7 +1,10 @@
 body{
 
     font-family: 'Noto Sans Bengali', sans-serif;
-    margin-left: 20%;    
+    margin-left: 10%;   
+    margin-right: 10%; 
+    margin-top: 10%;
+    
 }
 
 h1{
