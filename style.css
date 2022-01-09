@@ -1,10 +1,11 @@
 body{
 
     font-family: 'Noto Sans Bengali', sans-serif;
-    margin-left: 10%;   
-    margin-right: 10%; 
-    margin-top: 10%;
-
+    margin-left: 20%;   
+    margin-right: 20%; 
+    margin-top: 5%;
+    margin-bottom: 20%;
+    background-color:darkgrey;
 }
 
 h1{
@@ -28,11 +29,13 @@ font-size: 20px;
 
 section{
     display: flex;
+    margin-top: 70px;
 }
 
 .riham1 img{
     width: 100%;
     padding-left: 10px;
+    margin-top: 20%;
 
 }
 
@@ -44,6 +47,7 @@ h2{
 
     background-color: darkmagenta;
     color: white;
+    text-align: center;
 }
 
 .item{
@@ -52,4 +56,44 @@ h2{
     background-color: yellow;
     font-weight: bold;
     text-align: justify;
+}
+
+.fire{
+
+    
+    color: black;
+    padding-right: 70%;
+    
+    
+    
+}
+
+.electrical{
+    
+    color: black;
+    padding-right: 100%;
+    text-align: center;
+    }
+
+    .structural{
+        color: black;
+    padding-right: 100%;
+    text-align: center;
+    }
+
+    .boiler{
+        color: black;
+        padding-right: 100%;
+        text-align: center;
+}
+
+.risk-management{
+    color: black;
+        padding-right: 100%;
+        text-align: center;
+}
+
+section{
+
+    align-items: center;
 }
