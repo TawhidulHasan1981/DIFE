@@ -48,5 +48,7 @@ h2{
 .item{
 
     font-size: 20px;
-    border: yellow;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color: yellow;
 }
