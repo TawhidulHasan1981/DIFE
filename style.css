@@ -1,11 +1,11 @@
 body{
 
     font-family: 'Noto Sans Bengali', sans-serif;
-    margin-left: 5%;   
+    margin-left: 15%;   
     margin-right: 20%; 
     margin-top: 5%;
     margin-bottom: 20%;
-    background-color:darkgrey;
+    background-color:white;
     
 }
 
@@ -30,7 +30,9 @@ font-size: 20px;
 
 section{
     display: flex;
-    margin-top: 70px;
+    margin-top: 10%;
+   
+    
 }
 
 .riham1 img{
@@ -79,6 +81,7 @@ h2{
 .fire-heading{
 
 font-size: 30px;
+color:indigo;
 }
 
 td img{
@@ -86,13 +89,28 @@ td img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    background-color: white;
+    
 }
+
+
 
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
+    border-style: none;
+    border-spacing: 40px;
     
     
   }
 
 
+.entire{
+    background-color: none;
+    
+}
+
+
+a:hover{
+    color:darkorange;
+}
