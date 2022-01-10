@@ -1,11 +1,12 @@
 body{
 
     font-family: 'Noto Sans Bengali', sans-serif;
-    margin-left: 20%;   
+    margin-left: 5%;   
     margin-right: 20%; 
     margin-top: 5%;
     margin-bottom: 20%;
     background-color:darkgrey;
+    
 }
 
 h1{
@@ -14,7 +15,7 @@ h1{
   
     
 }
-span{
+.osh{
 
     background-color: darkgreen;
     color: white;
@@ -34,7 +35,7 @@ section{
 
 .riham1 img{
     width: 100%;
-    padding-left: 10px;
+    padding-left: 30px;
     margin-top: 20%;
 
 }
@@ -58,46 +59,35 @@ h2{
     text-align: justify;
 }
 
-.fire{
-
-    
-    color: black;
-    padding-right: 70%;
-    text-align: center;
-    border:20px;
-    
-    
-    
-    
-}
-
-.electrical{
-    
-    color: black;
-    padding-right: 100%;
-    text-align: center;
-    }
-
-    .structural{
-        color: black;
-    padding-right: 100%;
-    text-align: center;
-    }
-
-    .boiler{
-        color: black;
-        padding-right: 100%;
-        text-align: center;
-}
-
-.risk-management{
-    color: black;
-        padding-right: 100%;
-        text-align: center;
-}
-
 .container{
 
+       
+    margin-right: 5%; 
+    margin-top: 5%;
+    margin-bottom: 20%;
     display: flex;
-    padding-right: 5%;
 }
+
+
+
+
+.para{
+
+    font-size: 15px;
+}
+
+.fire-span{
+    color: crimson;
+    font: bold;
+
+}
+
+
+
+
+
+
+
+
+}
+
