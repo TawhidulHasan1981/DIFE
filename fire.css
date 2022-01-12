@@ -1,24 +1,136 @@
 body{
 
     font-family: 'Noto Sans Bengali', sans-serif;
-    
+    margin-left: 15%;   
+    margin-right: 20%; 
+    margin-top: 5%;
+    margin-bottom: 20%;
     background-color:white;
     
 }
 
+h1{
+
+    font-size: 50px;
+  
+    
+}
 .osh{
 
     background-color: darkgreen;
     color: white;
-    size: 30px;
 
 }
 
+p{
 
+font-size: 20px;
+
+}
+
+section{
+    display: flex;
+    margin-top: 10%;
+   
+    
+}
+
+.riham1 img{
+    width: 100%;
+    padding-left: 30px;
+    margin-top: 20%;
+
+}
 
 .riham{
     width: 100%;
-    background-color: yellowgreen;
+}
+
+h2{
+
+    background-color: darkmagenta;
+    color: white;
+    text-align: center;
+}
+
+.item{
+
+    font-size: 20px;
+    background-color: yellow;
+    font-weight: bold;
+    text-align: justify;
 }
 
 
+
+
+.fire-heading{
+
+font-size: 20px;
+color:indigo;
+}
+
+td img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    
+}
+
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-style: none;
+    border-spacing: 40px;
+    
+    
+  }
+
+
+.entire{
+    background-color: none;
+    
+}
+
+
+a:hover{
+    color:darkorange;
+}
+
+
+.separate{
+
+    padding-bottom: 50px;
+}
+
+.accordion1{
+    background-color:green;
+    font-size: 25px;
+    margin-bottom: 20px;
+    
+}
+
+.accordion2{
+    background-color: red;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+
+p{
+
+    background-color:white;
+    color: black;
+    
+}
+
+.question{
+    background-color:ivory;
+    color: black;
+    font-size: 30px;
+    }
+  
