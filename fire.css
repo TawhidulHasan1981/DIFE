@@ -111,6 +111,7 @@ a:hover{
     background-color:green;
     font-size: 25px;
     margin-bottom: 20px;
+    color: white;
     
 }
 
@@ -118,6 +119,7 @@ a:hover{
     background-color: red;
     font-size: 25px;
     margin-bottom: 20px;
+    color: white;
 }
 
 
@@ -126,6 +128,7 @@ p{
     background-color:white;
     color: black;
     
+    
 }
 
 .question{
@@ -133,4 +136,15 @@ p{
     color: black;
     font-size: 30px;
     }
-  
+ 
+    #acc1{
+        border: slateblue;
+        border-style: thin;
+    }
+
+    #acc-border{
+
+        border: black;
+        border-style: solid;
+        border-radius: 20px;
+    }

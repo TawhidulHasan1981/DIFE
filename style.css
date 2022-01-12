@@ -6,6 +6,7 @@ body{
     margin-top: 5%;
     margin-bottom: 20%;
     background-color:white;
+  
     
 }
 
@@ -103,9 +104,14 @@ a:hover{
 }
 
 .dife img{
-padding-top: 10px;
-padding-bottom: 10px;
-width: 15%;
-height: 15%;
-    
+    width: 20%;
+    height: 20%;
+}
+
+
+header {
+    position:fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
 }
