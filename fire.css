@@ -147,4 +147,40 @@ p{
         border: black;
         border-style: solid;
         border-radius: 20px;
+       
+    }
+
+    header{
+        width: 100%;
+        background:black;
+        
+        
+       
+    
+    }
+    
+    header ul{
+         display: flex;
+         justify-content: flex-end;
+         max-width: 1000px;
+         margin:0 auto;
+         padding: auto;
+       
+    }
+
+    header ul li{
+
+        list-style: none;
+        position: relative;
+        padding: 10px 15px;
+        transition: 0.5s;
+        box-sizing: border-box;
+       }
+    
+    header ul li :hover{
+        background:black;
+    }
+    
+    header ul li a{
+        color: white;
     }
