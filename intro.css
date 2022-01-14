@@ -1,6 +1,6 @@
 body{
 
-background-color:whitesmoke;
+background-color:lavenderblush;
 
 
     }
@@ -8,6 +8,7 @@ background-color:whitesmoke;
     .intro{
         display: flex;
         justify-content: center;
+     
         
     }
 img{
@@ -15,6 +16,10 @@ img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
+}
+
+h1{
+    font-size: 50px;
 }

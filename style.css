@@ -2,16 +2,17 @@ body{
 
     font-family: 'Noto Sans Bengali', sans-serif;
     margin-left: 15%;   
-    margin-right: 20%; 
-    margin-top: 5%;
+    margin-right: 15%; 
+    margin-top: 2%;
     margin-bottom: 20%;
     background-color:lavender;
+  
   
 }
 
 h1{
 
-    font-size: 50px;
+    font-size: 30px;
 }
 
 .osh{
@@ -27,7 +28,8 @@ font-size: 20px;
 
 section{
     display: flex;
-    margin-top: 10%;
+    margin-top: 2%;
+    align-content: center;
    
     
 }
@@ -36,11 +38,13 @@ section{
     width: 100%;
     padding-left: 30px;
     margin-top: 20%;
+    align-content: center;
 
 }
 
 .riham{
     width: 100%;
+    align-content: center;
     
 }
 
@@ -60,8 +64,6 @@ h2{
 }
 
 
-
-
 .fire-heading{
 
 font-size: 20px;
@@ -69,32 +71,21 @@ color:indigo;
 }
 
 td img{
-    width: 50%;
-    display: block;
+    width: 70%;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
-    background-color:black;
+    align-content: center;
+    
     
 }
 
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-    border-style: none;
-    border-spacing: 40px;
-    
-    
-  }
+
+
 
 a:hover{
-    color:darkorange;
+    color:seagreen;
 }
-
-.dife img{
-    width: 20%;
-    height: 20%;
-}
-
 
 
 header{
@@ -122,7 +113,8 @@ header ul li{
    }
 
 header ul li :hover{
-    background:black;
+    color: red;
+    font: bold;
 }
 
 header ul li a{
@@ -131,11 +123,29 @@ header ul li a{
 }
 
 
+
+
 .entire{
     background-color:lavender;
     border:outset;
     opacity: 1;
     border-radius: 20px;
-    border-collapse: collapse;
     
+
 }
+
+#id{
+    width:30%;
+}
+
+
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color:lavender;
+    color:black;
+    margin-top: 20%;
+    border-style: outset;
+    
+    
+  }
