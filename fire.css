@@ -145,7 +145,7 @@ p{
     #acc-border{
 
         border: black;
-        border-style: solid;
+        border-style: outset;
         border-radius: 20px;
        
     }

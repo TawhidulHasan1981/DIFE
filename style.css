@@ -7,21 +7,17 @@ body{
     margin-bottom: 20%;
     background-color:lavender;
   
-    
 }
 
 h1{
 
     font-size: 50px;
-  
-    
 }
+
 .osh{
 
     background-color: darkgreen;
-    color: white;
-
-}
+    color: white;}
 
 p{
 
@@ -77,11 +73,9 @@ td img{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    background-color: white;
+    background-color:black;
     
 }
-
-
 
 table, th, td {
     border: 1px solid black;
@@ -91,12 +85,6 @@ table, th, td {
     
     
   }
-
-
-
-    
-
-
 
 a:hover{
     color:darkorange;
@@ -113,9 +101,6 @@ header{
     width: 100%;
     background:black;
     
-    
-   
-
 }
 
 header ul{
@@ -143,4 +128,14 @@ header ul li :hover{
 header ul li a{
     color: white;
     text-decoration: none;
+}
+
+
+.entire{
+    background-color:lavender;
+    border:outset;
+    opacity: 1;
+    border-radius: 20px;
+    border-collapse: collapse;
+    
 }
