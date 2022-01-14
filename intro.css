@@ -1,6 +1,7 @@
 body{
 
 background-color:lavenderblush;
+margin-top: 40px;
 
 
     }
@@ -18,6 +19,7 @@ img{
     margin-right: auto;
     width: 150px;
     height: 150px;
+    margin-top: 40px;
 }
 
 h1{
