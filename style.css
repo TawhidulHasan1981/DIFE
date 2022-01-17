@@ -141,11 +141,18 @@ header ul li a{
 
 footer {
     text-align: center;
-    padding: 5px;
+    padding: 10px;
     background-color:lavender;
     color:black;
     margin-top: 20%;
-    border-style: outset;
+       
     
     
+
+    
+  }
+
+  #s1{
+
+    font-size: 15px;
   }
