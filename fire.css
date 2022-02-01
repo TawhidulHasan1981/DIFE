@@ -148,6 +148,7 @@ p{
         border: black;
         border-style: outset;
         border-radius: 20px;
+        
        
     }
 
@@ -187,6 +188,14 @@ p{
     }
 
 
+    #acc-border1{
 
+        border: black;
+        border-style: outset;
+        border-radius: 20px;
+        
+        
+       
+    }
 
     
